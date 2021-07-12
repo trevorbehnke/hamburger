@@ -1,2 +1,2 @@
 # hamburger menu
-Live Preview https://trevor-hamburger.netlify.app/
+Live Preview: https://trevor-hamburger.netlify.app/
